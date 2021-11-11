@@ -1,7 +1,7 @@
 package com.atguigu.git;
 
 /**
- * @author ChenJian
+ * @author Jerry
  * @create 2021-11-11 16:08
  */
 public class GitTest {
@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("Hello Git444!!");
         System.out.println("master test");
         System.out.println("hot-fix test");
+        System.out.println("push test");
     }
 }
